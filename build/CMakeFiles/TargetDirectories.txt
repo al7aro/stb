@@ -1,0 +1,3 @@
+/home/alopez-g/Documents/stb/build/CMakeFiles/stb.dir
+/home/alopez-g/Documents/stb/build/CMakeFiles/edit_cache.dir
+/home/alopez-g/Documents/stb/build/CMakeFiles/rebuild_cache.dir

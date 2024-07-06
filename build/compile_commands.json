@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alopez-g/Documents/stb/build",
+  "command": "/usr/bin/cc  -I/home/alopez-g/Documents/stb/. -g -o CMakeFiles/stb.dir/stb_image.c.o -c /home/alopez-g/Documents/stb/stb_image.c",
+  "file": "/home/alopez-g/Documents/stb/stb_image.c"
+}
+]
